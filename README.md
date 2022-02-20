@@ -1,1 +1,1 @@
-### Lista de Tarefas - LS: App que inclui, marca(tarefas de execução de tarefas) e exclui tarefas.
+### App Lista de Tarefas: Responsável por incluir, marcar(execução de tarefas) e exclui tarefas.
