@@ -40,13 +40,14 @@ body {
   border-radius: 5px;
   padding: 12px;
   font-weight: 500;
+  text-transform: uppercase;
 }
 
 .new-task-container input:focus {
-  text-transform: uppercase;
   font-weight: 700;
   outline: none;
   border-color: #0a045a;
+  text-transform: uppercase;
 }
 
 .new-task-button {
@@ -112,7 +113,7 @@ footer {
   text-align: center;
   font-size: 20px;
   color: white;
-  margin-top: 150px;
+  margin-top: 10px;
 }
 
 .copy {
